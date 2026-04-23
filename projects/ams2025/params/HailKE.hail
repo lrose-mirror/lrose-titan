@@ -129,7 +129,7 @@ ZE_coefficients = {
 //
 // Type: float
 
-freezing_level = 4.0;
+freezing_level = 4.5;
 
 ///////////// reference_height_above_freezing /////////
 //
