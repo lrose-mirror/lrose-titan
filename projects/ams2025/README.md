@@ -336,6 +336,7 @@ You can view the swath using CIDD:
 
 and select the HailKE or HailKEswath fields.
 
+<img src="./images/hail_swath.png" alt="Alt text" width="600">
 
 
 
